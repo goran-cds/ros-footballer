@@ -1,5 +1,7 @@
 # ROS Footballer
 
+<img src="screenshots/ss0.png" height="450">
+
 The project's theme refers to the remote control of a robot. Essentially, it involves the remote transmission through computer-mediated means of signals captured by a robot and the commands addressed to it, decided by an operator in a control room or a control system. In a generic sense, the transmission of commands to a remotely located robot is called teleoperation, regardless of whether the decision-maker is a human operator or an automatic control system.
 
 The goal was to programatically make a Turtlebot3 Waffle Pi robot model in such a way that it simulates a soccer player.
@@ -42,4 +44,10 @@ $ python3 footballer.py
 
 # Screenshots
 
+<img src="screenshots/ss1.png" width="550">
 
+<img src="screenshots/ss2.png" width="550">
+
+<img src="screenshots/ss3.png" width="550">
+
+<img src="screenshots/ss4.png" width="550">
